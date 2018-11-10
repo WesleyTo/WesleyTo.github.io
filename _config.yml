@@ -1,0 +1,20 @@
+# Site settings
+title: Wesley To
+email: wes@wesleyto.com
+description: > # this means to ignore newlines until "baseurl:"
+  Wesley To is an American software developer living in the San 
+  Francisco Bay. He graduated from U.C. Berkeley with a B.A. in Computer 
+  Science in 2015. Projects he's worked on include Cerebro Voice and 
+  Mycotronics. Several of the projects he contributed heavily to have 
+  won awards from Maker Faire and the ESA, and he has contributed to 
+  projects featured on Hackaday. In his spare time, he 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wesleyto.com" # the base hostname & protocol for your site
+twitter_username: wesleytocs
+github_username: wesleyto
+bitbucket_username: wesleyto
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-slate
+
+# Build settings
+markdown: kramdown
